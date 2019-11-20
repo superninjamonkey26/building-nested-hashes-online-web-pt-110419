@@ -9,4 +9,3 @@ describe "#bonus" do
     epic_tragedy[:capulet][:heroine][:status] = "dead"
   end
 end
-epic_tragedy
